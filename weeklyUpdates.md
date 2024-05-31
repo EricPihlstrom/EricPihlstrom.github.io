@@ -3,7 +3,7 @@ layout: default
 title: "Weekly Project Updates"
 permalink: /weeklyUpdates
 ---
-<title>CSPB 3122 Weekly Project Updates</title>
+<h1>CSPB 3122 Weekly Project Updates</h1>
 
 <h2>Week 1:</h2>
 
