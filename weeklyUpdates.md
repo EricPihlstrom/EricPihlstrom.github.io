@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Weekly Project Updates"
 permalink: /weeklyUpdates
 ---
