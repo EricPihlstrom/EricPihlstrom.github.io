@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Weekly Project Updates"
-description: CSPB 3122
+description: CSPB 3112
 permalink: /weeklyUpdates
 ---
 
