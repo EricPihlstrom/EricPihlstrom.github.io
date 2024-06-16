@@ -10,7 +10,7 @@ permalink: /weeklyUpdates
   <ul>
     <li>Last week I came up with a few ideas that I'd like to learn more about and could be used for my project. After reading the feedback, I narrowed my idea down to learning more about C++. I'd like to dive deeper into some more advanced concepts while also solidifying my current knowledge. After some research online, it looks like learncpp.com is a great resource.</li>
   </ul>
-  <h3>What do you plan to do this week?</h3>
+  <h4>What do you plan to do this week?</h4>
   <ul>
     <li>This week I plan on working through some chapters on learncpp.com. I plan on skimming over the first few because much of it is stuff I have already learned. I will try to do around 1 chapter per week give or take depending on the difficulty.</li>
   </ul>
