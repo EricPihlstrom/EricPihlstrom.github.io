@@ -5,8 +5,8 @@ description: CSPB 3112
 permalink: /weeklyUpdates
 ---
 
-<h2>Week 1:</h2>
-  <h3>What did you do last week?</h3>
+<h2>Week 2:</h2>
+  <h4>What did you do last week?</h4>
   <ul>
     <li>Last week I came up with a few ideas that I'd like to learn more about and could be used for my project. After reading the feedback, I narrowed my idea down to learning more about C++. I'd like to dive deeper into some more advanced concepts while also solidifying my current knowledge. After some research online, it looks like learncpp.com is a great resource.</li>
   </ul>
@@ -14,14 +14,47 @@ permalink: /weeklyUpdates
   <ul>
     <li>This week I plan on working through some chapters on learncpp.com. I plan on skimming over the first few because much of it is stuff I have already learned. I will try to do around 1 chapter per week give or take depending on the difficulty.</li>
   </ul>
-  <h3>Are there any impediments in your way?</h3>
+  <h4>Are there any impediments in your way?</h4>
   <ul>
     <li>There are not really any impediments in my way. This seems like a manageable goal and is an interesting topic to keep my engaged</li>
   </ul>
-  <h3>Reflection on the process you used last week, how can you make the process work better?</h3>
+  <h4>Reflection on the process you used last week, how can you make the process work better?</h4>
   <ul>
     <li>I can set a daily goal of time spent learning. I plan on spending around 1 hour per day (up to 4 hours per week) working on learning this as well as maintaining my website and really getting my LinkedIn squared away.</li>
   </ul>
-<h2>Week 2:</h2>
-
 <h2>Week 3:</h2>
+  <h4>What did you do last week?</h4>
+  <ul>
+    <li>I worked through a couple more chapters on learncpp.com as well a completed a couple leetcode problems using Python. I also got the basic layout of my personal website up and running. </li>
+  </ul>
+  <h4>What do you plan to do this week?</h4>
+  <ul>
+    <li>I plan to continue working through the chapters. I am finishing up most of the chapters that will be review for me and then starting to work on some mroe advanced concepts. </li>
+  </ul>
+  <h4>Are there any impediments in your way?</h4>
+  <ul>
+    <li>There are not any current roadblocks. Most of the contents so far has been review from prior classes. </li>
+  </ul>
+  <h4>Reflection on the process you used last week, how can you make the process work better?</h4>
+  <ul>
+    <li>I need to make sure to stick to my plan and complete the hours stated. I plan to set a specific day/time that I can complete these tasks. </li>
+  </ul>
+<h2>Week 4:</h2>
+  <h4>What did you do last week?</h4>
+  <ul>
+    <li>Submitted my project proposal</li>
+    <li>Worked on my website some more and got it mostly up and running</li>
+    <li>Worked through more of learncpp.com and started on some more advanced sections</li>
+  </ul>
+  <h4>What do you plan to do this week?</h4>
+  <ul>
+    <li>Continue working through the chapters and doing some readings outside of the text</li>
+  </ul>
+  <h4>Are there any impediments in your way?</h4>
+  <ul>
+    <li>None at this time</li>
+  </ul>
+  <h4>Reflection on the process you used last week, how can you make the process work better?</h4>
+  <ul>
+    <li>All has been going smooth overall at this point, but just need to make sure I stay on track going forward. </li>
+  </ul>
