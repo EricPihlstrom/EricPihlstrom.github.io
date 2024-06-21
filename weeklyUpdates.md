@@ -58,3 +58,20 @@ permalink: /weeklyUpdates
   <ul>
     <li>All has been going smooth overall at this point, but just need to make sure I stay on track going forward. </li>
   </ul>
+<h2>Week 5:</h2>
+  <h4>What happened last week?</h4>
+    <ul>
+      <li>I updated the weekly updates section of my website. I also continued to work through my chapters for my project. I am starting to think of some good ideas for a physical project to create with the new features I have learned in C++.</li>
+    </ul>
+  <h4>What do I plan to do this week?</h4>
+    <ul>
+      <li>I'm starting to get into some more advanced concepts. This will slow down my pace, but I will continue to work my way through them. </li>
+    </ul>
+  <h4>Are there any temporary roadblocks?</h4>
+    <ul>
+      <li>There are not any current roadblocks.</li>
+    </ul>
+  <h4>How can I make the process work better?</h4>
+    <ul>
+      <li>I've been setting aside a specific day/time to work on my projects for each class. This schedule has helped me maintain accountability. </li>
+    </ul>
