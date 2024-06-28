@@ -80,8 +80,10 @@ permalink: /weeklyUpdates
   <ul>
     <li>Continued working my way through chapters in my C++ course.</li>
     <li>Came up with some project ideas that use embedded systems and C++:</li>
+    <ul>
       <li>Smart plant watering system that uses an arduino and sensors</li>
       <li>DIY home weather station </li>
+    </ul>
   </ul>
   <h4>What do I plan to do this week?</h4>
   <ul>
