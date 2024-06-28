@@ -75,3 +75,23 @@ permalink: /weeklyUpdates
   <ul>
     <li>I've been setting aside a specific day/time to work on my projects for each class. This schedule has helped me maintain accountability. </li>
   </ul>
+  <h2>Week 6:</h2>
+  <h4>What happened last week?</h4>
+  <ul>
+    <li>Continued working my way through chapters in my C++ course.</li>
+    <li>Came up with some project ideas that use embedded systems and C++:</li>
+      <li>Smart plant watering system that uses an arduino and sensors</li>
+      <li>DIY home weather station </li>
+  </ul>
+  <h4>What do I plan to do this week?</h4>
+  <ul>
+    <li>Solidify my project and start working on getting the materials and being working on the code.</li>
+  </ul>
+  <h4>Are there any temporary roadblocks?</h4>
+  <ul>
+    <li>I am still relatively new when it comes to electronics/robotics so creating the system will have a steep learning curve, but I am very interested in these so I am looking forward to it. </li>
+  </ul>
+  <h4>How can I make the process work better?</h4>
+  <ul>
+    <li>Begin to narrow down what actual concepts I will need for my project instead of trying to learn every single piece of C++ which would obviously take much longer than what we have available. </li>
+  </ul>
