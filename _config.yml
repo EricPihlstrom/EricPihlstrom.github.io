@@ -1,3 +1,4 @@
 title: Eric Pihlstrom
 description: Welcome to my website!
 show_downloads: false
+baseurl: "" # Ensure this is correct
