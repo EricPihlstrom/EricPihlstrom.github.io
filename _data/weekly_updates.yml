@@ -18,4 +18,37 @@
   reflection:
     - I need to make sure to stick to my plan and complete the hours stated. I plan to set a specific day/time that I can complete these tasks.
 
-# Add more weeks as needed...
+- title: "Week 4"
+  last_week:
+    - Submitted my project proposal
+    - Worked on my website some more and got it mostly up and running
+    - Worked through more of learncpp.com and started on some more advanced sections
+  this_week:
+    - Continue working through the chapters and doing some readings outside of the text
+  impediments:
+    - None at this time
+  reflection:
+    - All has been going smooth overall at this point, but just need to make sure I stay on track going forward.
+
+- title: "Week 5"
+  last_week:
+    - I updated the weekly updates section of my website. I also continued to work through my chapters for my project. I am starting to think of some good ideas for a physical project to create with the new features I have learned in C++.
+  this_week:
+    - I'm starting to get into some more advanced concepts. This will slow down my pace, but I will continue to work my way through them.
+  impediments:
+    - There are not any current roadblocks.
+  reflection:
+    - I've been setting aside a specific day/time to work on my projects for each class. This schedule has helped me maintain accountability.
+
+- title: "Week 6"
+  last_week:
+    - Continued working my way through chapters in my C++ course.
+    - Came up with some project ideas that use embedded systems and C++:
+    - Smart plant watering system that uses an arduino and sensors
+    - DIY home weather station
+  this_week:
+    - Solidify my project and start working on getting the materials and begin working on the code.
+  impediments:
+    - I am still relatively new when it comes to electronics/robotics so creating the system will have a steep learning curve, but I am very interested in these so I am looking forward to it.
+  reflection:
+    - Begin to narrow down what actual concepts I will need for my project instead of trying to learn every single piece of C++ which would obviously take much longer than what we have available.
