@@ -6,4 +6,4 @@ plugins:
 
 title: Eric Pihlstrom
 description: Welcome to my website!
-show_downloads: true
+show_downloads: false
