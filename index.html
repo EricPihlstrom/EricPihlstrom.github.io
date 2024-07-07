@@ -4,8 +4,14 @@ title: Eric Pihlstrom
 description: Welcome to my website!
 ---
 
-<div class="container">
+<section class="hero">
+    <div class="container">
+        <h1>Welcome to My Personal Website</h1>
+        <p>Hi, I'm Eric Pihlstrom. Here you can find information about my projects and weekly updates.</p>
+        <a href="{{ '/weeklyUpdates' | relative_url }}" class="btn btn-primary"><i class="fas fa-calendar-alt"></i> Weekly Project Updates</a>
+    </div>
+</section>
+<section class="content container">
     <h1>About Me</h1>
     <p>Hello, I'm Eric Pihlstrom. I'm passionate about software development and always looking for new challenges. Here you can find information about my projects, blog posts, and more.</p>
-    <a href="{{ '/weeklyUpdates' | relative_url }}" class="btn btn-primary"><i class="fas fa-calendar-alt"></i> Weekly Project Updates</a>
-</div>
+</section>
