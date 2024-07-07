@@ -5,7 +5,7 @@ description: CSPB 3112
 permalink: /weeklyUpdates
 ---
 
-<div class="content">
+<div class="container">
     {% for week in site.data.weekly_updates %}
     <h2>{{ week.title }}</h2>
     <h4>What did you do last week?</h4>
